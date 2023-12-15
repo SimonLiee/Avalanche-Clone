@@ -3,6 +3,7 @@
 
 ## Gameplay
 - Fix walljumps
+- Fix bugs
 
 ## Misc
 - Add background details
